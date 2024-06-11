@@ -52,5 +52,5 @@ if __name__ == "__main__":
 # Example use
 
 ```
-python3 Compressor_python.py /path/to/input_image.png /path/to/output_image.png 158
+python3 Compressor_python.py /path/to/input_image.png /path/to/output_image.png 150
 ```
